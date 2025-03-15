@@ -22,7 +22,7 @@ Welcome to **Asset Management System 2.0**, an enhanced Java application that al
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/c7fd615a-8a28-40a1-8f78-73cdc5378f06" alt="Screenshot 2025-03-15 at 12 32 33 PM" width="300" height="100">
+<img src="https://github.com/user-attachments/assets/c7fd615a-8a28-40a1-8f78-73cdc5378f06" alt="Screenshot 2025-03-15 at 12 32 33 PM" width="400" height="150">
 
 ---
 
