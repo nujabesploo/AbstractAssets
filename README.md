@@ -22,13 +22,7 @@ Welcome to **Asset Management System 2.0**, an enhanced Java application that al
 
 ## 📸 Screenshots
 
-📷 *Add your project screenshots here!*  
-To include screenshots, upload them to your GitHub repository and reference them like this:  
-
-```markdown
-![Screenshot 1](path_to_image1.png)
-![Screenshot 2](path_to_image2.png)
-```
+<img src="https://github.com/user-attachments/assets/c7fd615a-8a28-40a1-8f78-73cdc5378f06" alt="Screenshot 2025-03-15 at 12 32 33 PM" width="800" height="600">
 
 ---
 
