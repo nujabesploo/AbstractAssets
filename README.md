@@ -87,9 +87,13 @@ If you use or modify this project:
 ✔️ **Feel free to fork** and customize for your own needs.  
 ✔️ **Publish improvements** and contribute back to the community!  
 
-If you plan to **publish** your own version, please:  
-📌 Include an acknowledgment to this original repository.  
-📌 Clearly document any modifications or enhancements you've made.  
+---
+
+## ❤️ Contribute to Me
+
+If you find this project helpful and wish to support me, consider buying me a coffee:
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/nujabesploo) 
 
 ---
 
